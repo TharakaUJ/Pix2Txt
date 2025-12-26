@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c99
 LDFLAGS = -lm
-TARGET = pix2txt
+TARGET = pix2txt.bin
 SRCS = main.c
 OBJS = $(SRCS:.c=.o)
 

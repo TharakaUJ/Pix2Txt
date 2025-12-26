@@ -1,2 +1,7 @@
 *.o
 *.bin
+*.jpeg
+*.jpg
+*.png
+*.bmp
+*.tiff
