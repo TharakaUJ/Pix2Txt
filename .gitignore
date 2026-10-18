@@ -5,3 +5,4 @@
 *.png
 *.bmp
 *.tiff
+!samples/*.png
